@@ -23,7 +23,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'http://ztrztr.ml'
+      url: 'http://ztrblog.ml'
     },
   ],
 };
