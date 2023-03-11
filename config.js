@@ -6,7 +6,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm793391640-6d8ca58a0eb407b7ae41ac85', 'm793391827-19b340117cfe5623d511c3c4',
+    'm793889924-d3fc40486be590680058c2a2', 'm793391827-19b340117cfe5623d511c3c4',
   ],
 
   // 日志天数
@@ -23,7 +23,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'http://ztrblog.ml'
+      url: 'https://ztrztr.top'
     },
   ],
 };
